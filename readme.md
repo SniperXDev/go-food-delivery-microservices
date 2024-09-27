@@ -1,10 +1,6 @@
 # 🍕 Go Food Delivery Microservices
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mehdihadeli/go-food-delivery-microservices/ci.yml?label=CI&logo=github&style=for-the-badge)](https://github.com/mehdihadeli/go-food-delivery-microservices/actions/workflows/ci.yml)
-![Go Version](https://img.shields.io/badge/go%20version-%3E=1.22-61CFDD.svg?&style=for-the-badge)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?logoColor=white&style=for-the-badge)](http://commitizen.github.io/cz-cli/)
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mehdihadeli/go-food-delivery-microservices)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/SniperXDev/go-food-delivery-microservices)
 
 > `Go Food Delivery Microservices` is an imaginary and practical food delivery microservices, built with Golang and different software architecture and technologies like **Microservices Architecture**, **Vertical Slice Architecture** , **CQRS Pattern**, **Domain Driven Design (DDD)**, **Event Sourcing**, **Event Driven Architecture** and **Dependency Injection**. For communication between independent services, We use asynchronous messaging using RabbitMQ, and sometimes we use synchronous communication for real-time communications using REST and gRPC calls.
 
@@ -13,15 +9,6 @@
 💡 This application is not `business-oriented` and my focus is mostly on the technical part, I just want to implement a sample using different technologies, software architecture design, principles, and all the things we need for creating a microservices app.
 
 🚀 This Application is `in progress` and I will add new features and technologies over time.
-
-For your simplest Golang projects, you can use my `go-vertical-slice-template` project:
-
-- [https://github.com/mehdihadeli/go-vertical-slice-template](https://github.com/mehdihadeli/go-vertical-slice-template)
-
-For more advanced projects, with two `microservices` and `modular monolith architecture`, check the C# version:
-
-- [https://github.com/mehdihadeli/food-delivery-microservices](https://github.com/mehdihadeli/food-delivery-microservices)
-- [https://github.com/mehdihadeli/food-delivery-modular-monolith](https://github.com/mehdihadeli/food-delivery-modular-monolith)
 
 ## Features
 
