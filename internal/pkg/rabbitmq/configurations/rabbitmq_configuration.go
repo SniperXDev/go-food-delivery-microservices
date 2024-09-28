@@ -6,6 +6,7 @@ import (
 )
 
 // Authored by SniperXDev
+// Author SniperXDev
 type RabbitMQConfiguration struct {
 	ProducersConfigurations []*producerConfigurations.RabbitMQProducerConfiguration
 	ConsumersConfigurations []*consumerConfigurations.RabbitMQConsumerConfiguration
