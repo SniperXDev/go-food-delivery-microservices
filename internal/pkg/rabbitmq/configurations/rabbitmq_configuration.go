@@ -5,7 +5,6 @@ import (
 	producerConfigurations "github.com/mehdihadeli/go-food-delivery-microservices/internal/pkg/rabbitmq/producer/configurations"
 )
 
-// Configuration type for RabbitMQ
 type RabbitMQConfiguration struct {
 	ProducersConfigurations []*producerConfigurations.RabbitMQProducerConfiguration
 	ConsumersConfigurations []*consumerConfigurations.RabbitMQConsumerConfiguration
